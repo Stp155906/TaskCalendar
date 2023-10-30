@@ -1,6 +1,6 @@
 # Project 7 - *Task App*
 
-Submitted by: **Hennessy Nguyen**
+Submitted by: **Shantalia Perez**
 
 **Task Ask** is an app that helps you keep track of your tasks by: Create new tasks, delete and mark status of the tasks, and view them in a calendar view.
 
